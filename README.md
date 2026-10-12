@@ -1,10 +1,10 @@
 # ICS 3202: Artificial Intelligence - Practical Exercise 3
 
-## Designing a Searching Agent
+## 🤖Designing a Searching Agent
 
 This repository contains the solution for **Practical Exercise 3**, focusing on agent design using the PEAS framework, environmental categorization, graph/search tree abstraction, and optimal path cost calculations for a self-driving trailer agent navigating Kenya's highway network.
 
-### Group Members (Omitted here for privacy reasons)
+### ⭐Group Members (Omitted here for privacy reasons)
 
 ---
 
