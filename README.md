@@ -9,7 +9,7 @@ This repository contains the solution for **Practical Exercise 3**, focusing on 
 ---
 
 ### 📍Repository Structure
-* **`Exercise 3_Designing a Searching Agent.md`**: The main assignment document containing the PEAS analysis, environmental definitions, graph/tree design, and distance path cost calculations.
-* **`1.jpeg`**: Visual diagram for Question 2 (Directed graph and search tree with abstraction).
-* **`2.jpeg`**: Visual diagram and breakdown for Question 3 path costs.
-* **`q3.jpeg`**: Additional step-by-step calculations for the optimal path from Nairobi to Kisumu.
+- **`Exercise 3_Designing a Searching Agent.md`**: The main assignment document containing the PEAS analysis, environmental definitions, graph/search tree design, and distance path cost calculations.
+- **`1.jpeg`**: Visual diagram for Question 2 (Directed graph and search tree - Part 1).
+- **`2.jpeg`**: Visual diagram for Question 2 (Directed graph and search tree - Part 2).
+- **`q3.jpeg`**: Step-by-step path cost calculations for Question 3 (Nairobi to Kisumu optimal path).
